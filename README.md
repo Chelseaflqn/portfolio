@@ -19,6 +19,9 @@ Montreuil, 2022
 Première année de licence en psychologie    
 Paris 8, 2023
 
+***Pourquoi le BTS SIO :***    
+J'ai choisi le BTS SIO, car l'informatique est un domaine qui m'interessait.
+
 ## Matèriel
 Je dispose d'un ordinateur portable **personnel**
 
