@@ -17,7 +17,7 @@ Montreuil, 2022
 ***post-BAC avant ce BTS :***
 
 Première année de licence en psychologie    
-Paris 8, 2023
+Paris 8, 2022.2023
 
 ***Pourquoi le BTS SIO :***   
  
