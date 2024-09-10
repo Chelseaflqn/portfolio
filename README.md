@@ -5,7 +5,7 @@ florquinchelsea@gmail.com
 ***Adresse et temps de trajet :***
 
 93100 Montreuil    
-1h45/2h 
+Transport en commun, 1h45/2h 
 
 ## Études
 ***Bacalauréat :***
