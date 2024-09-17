@@ -70,15 +70,16 @@
 		<p>
 		  <h2 align="left"> Formations & certifications </h2>
 	    </p>
-		<ul>
-          <li>🌼Brevet des collèges</li>
-		  <p> <h5> <Font color="#e193e8"> COLLEGE CESARIA EVORA </Font> </h5> </p>
-          <li>🌼Baccalauréat général</li>
-		  <p> <h5> <Font color="#e193e8"> LYCEE JEAN JAURES </Font> </h5> </p>
-		  <li>🌼Certification Prévention et secour civique de niveau 1</li>
-		  <p> <h5> <Font color="#e193e8"> COLLEGE CESARIA EVORA </Font> </h5> </p>
-        </ul>
 		
+		<ul>
+          <li> <details> <summary>🌼Brevet des collèges </summary> 
+		  <p> <h5> <Font color="#e193e8"> COLLEGE CESARIA EVORA 2018 - 2019 </Font> </h5> </p> </details> </li>
+          <li> <details> <summary>🌼Baccalauréat général </summary> 
+		  <p> <h5> <Font color="#e193e8"> LYCEE JEAN JAURES 2020 - 2022 </Font> </h5> </p> </details> </li>
+		  <li> <details> <summary>🌼Certification Prévention et secour civique de niveau 1 </summary> 
+		  <p> <h5> <Font color="#e193e8"> COLLEGE CESARIA EVORA 2018 </Font> </h5> </p> </details> </li>
+        </ul>
+	
 		 <p>_________________________________________________</p>
 		 
 		<p>
@@ -86,12 +87,11 @@
 	    </p>
 	
 		<ul>
-          <li>Babysitting</li>
-		  <p> <h5> <Font color="#e193e8"> Auprès de différentes familles 💕 </Font> </h5> </p>
-          <li>CDI Sergent Major</li>
-		  <p> <h5> <Font color="#e193e8"> Octobre 2023 > Août 2024 </Font> </h5> </p>
+          <li> <details> <summary> 🌻Babysitting </summary> 
+		  <p> <h5> <Font color="#e193e8"> Auprès de différentes familles 💕 </Font> </h5> </p> </details> </li>
+          <li> <details> <summary> 🌻CDI Sergent Major </summary> 
+		  <p> <h5> <Font color="#e193e8"> Octobre 2023 > Août 2024 </Font> </h5> </p> </details> </li>
         </ul>
 	  </body>
 	   
-	 
 </HTML>
