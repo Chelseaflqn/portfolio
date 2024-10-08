@@ -36,4 +36,5 @@ J'ai choisi le BTS SIO, car l'informatique est un domaine qui m'interessait de l
 Je dispose d'un ordinateur portable **personnel** 
 [🖇️](https://www.darty.com/nav/achat/informatique/ordinateur_portable-portable/portable/acer_a515-57_i7_16_1.html)
 
+[Image représentative](https://objectifdessin.fr/wp-content/uploads/2021/03/modele-dessin-tulipe-4.png)
 
