@@ -38,7 +38,7 @@ Je dispose d'un ordinateur portable **personnel**
 
 ## Image représentative 🪞
 
-J'ai choisi cette image car la tulipe est ma **fleur préférée** ! Ça ajoute un peu de **couleurs**
+J'ai choisi cette image car la tulipe est ma **fleur préférée** ! Ça ajoute un peu de **couleurs** !!
 
 ![Image représentative](http://miam-images.m.i.pic.centerblog.net/3ea93282.png)
 
