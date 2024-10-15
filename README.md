@@ -40,5 +40,5 @@ Je dispose d'un ordinateur portable **personnel**
 
 J'ai choisi cette image car la tulipe est ma **fleur préférée** ! Ça ajoute un peu de **couleurs** !!
 
-![Image représentative] (Image/Chelsea.png) {widht="300}
+![mon photo] (Image_Chelsea.png) {widht="300}
 
