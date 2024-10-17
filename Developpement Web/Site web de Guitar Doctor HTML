@@ -9,6 +9,6 @@
                           <a href = « produits.html»> Nos produits </a>
                           <a href = « contact.html »> Nous contacter </a>
                           </p>
-                      <div align = « center »> <img src= « guitar.jpg »> </img src> </div>
+                          <div align = « center »> <img src= « guitar.jpg »> </img src> </div>
          </body>
 </html>
