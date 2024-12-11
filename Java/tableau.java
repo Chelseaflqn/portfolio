@@ -1,0 +1,21 @@
+//Chelsea FLORQUIN BTS 1 18/10/2024
+
+public class tableau {}
+    public static void main(String[]args)
+
+{
+    
+    Random nombre = new Random();
+    //On cree le tableau de 20 entiers
+    int[]tab = new int[20];
+    //On precise que le tableau comporte 20 case, et que chacune de ces cases correspond à i = i+1
+    for (int i=0;i<20;i++);
+    //On met dans le tableau 20 entiers aléatoires entre 1 et 100
+    tabl[i]=nombre.nextInt(1;101);
+}
+System.out.println(Arrays.toString(tableau))
+
+for (int i<=100 )
+        i>100 
+ 
+
