@@ -1,4 +1,4 @@
-//19/12/2024 Liste en Python
+//19/12/2024 Liste en Python + Minimum de la liste et fréquence de l'apparition d'un nombre (f)
 
 from random import*
 liste=[randint(1,10) for i in range(20)]
