@@ -1,5 +1,7 @@
 Chelsea FLORQUIN BTS 1 // Septembre 2024
-#Chapitre 1
+
+#Chapitre 1##
+
 ##Protéger les données à caractère personnel
 
 **Données considérées personnelles :** 
@@ -19,7 +21,11 @@ Le sons de sa voix
 **XML** : Comme HTML mais balise créée par nous même 
 
 **D** isponibilité
+
 **I** ntégrité 
+
 **C** onfidentialité
+
 Ne pas partager les données si il n’y a pas d’autorisation
+
 **P** reuve
