@@ -1,6 +1,6 @@
-##L’intelligence Artificielle dans le monde médical
+#L’intelligence Artificielle dans le monde médical
 
-##**Septembre 2024**
+#**Septembre 2024**
 •	Titre : L'intelligence artificielle en santé vue depuis l'an 2044
 •	Source : Le Monde
 •	Date : 20 septembre 2024
