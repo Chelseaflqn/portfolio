@@ -7,7 +7,7 @@
 ***Adresse et temps de trajet :***
 
 📍93100 Montreuil    
-Transport en commun, 1h45/2h 
+Transport en commun, 2h 
 
 ## Études🎓
 
