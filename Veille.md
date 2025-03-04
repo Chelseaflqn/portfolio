@@ -1,15 +1,15 @@
 # L’intelligence Artificielle dans le monde médical
 
 ### Septembre 2024
-•	Titre : L'intelligence artificielle en santé vue depuis l'an 2044
+•   **L'intelligence artificielle en santé vue depuis l'an 2044**
 
-•	Source : [Le Monde](https://www.lemonde.fr/sante/article/2024/09/20/l-intelligence-artificielle-en-sante-vue-depuis-l-an-2044_6325469_1651302.html)
+•	 [Le Monde](https://www.lemonde.fr/sante/article/2024/09/20/l-intelligence-artificielle-en-sante-vue-depuis-l-an-2044_6325469_1651302.html)
 
-•	Date : 20 septembre 2024
+•	20 septembre 2024
 
-•	Résumé : Cet article projette l'utilisation de l'IA en santé en 2044, soulignant son omniprésence et les défis liés à l'incertitude des données qu'elle génère. Il met en avant le rôle crucial des soignants dans l'interprétation des informations fournies par l'IA.
+•   Cet article projette l'utilisation de l'IA en santé en 2044, soulignant son omniprésence et les défis liés à l'incertitude des données qu'elle génère. Il met en avant le rôle crucial des soignants dans l'interprétation des informations fournies par l'IA.
 ____________
-•	Titre : Il faut d'urgence insuffler un esprit start-up dans la santé
+•	 **Il faut d'urgence insuffler un esprit start-up dans la santé**
 
 •	Source : [Le Monde](https://www.lemonde.fr/sciences/article/2024/09/17/il-faut-d-urgence-insuffler-un-esprit-start-up-dans-la-sante_6321490_1650684.html )
 
