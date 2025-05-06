@@ -1,6 +1,6 @@
 Chelsea Florquin 06/05/2025
 
-##Eléments à ne pas oublier durant le stage
+## Eléments à ne pas oublier durant le stage ##
 
 [] Créer un document "Compte rendu de stage" : CRA_Stage.md 
    -> Expliquer ce qu'on a pu faire chaque jour
