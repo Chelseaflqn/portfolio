@@ -22,7 +22,7 @@ ________________________________________
 
 • 25 Avril 2025
 
-• e CHU de Montpellier accélère sa transformation numérique en modernisant son Dossier Patient Informatisé (DPI) et en intégrant des solutions d'intelligence artificielle générative. Grâce au centre ERIOS, cofondé avec Dedalus et l’Université de Montpellier, l'hôpital expérimente des outils numériques conçus avec les soignants pour répondre aux besoins concrets du terrain. Ces innovations visent à améliorer la qualité des soins et à réduire la charge administrative du personnel médical.
+• Le CHU de Montpellier accélère sa transformation numérique en modernisant son Dossier Patient Informatisé (DPI) et en intégrant des solutions d'intelligence artificielle générative. Grâce au centre ERIOS, cofondé avec Dedalus et l’Université de Montpellier, l'hôpital expérimente des outils numériques conçus avec les soignants pour répondre aux besoins concrets du terrain. Ces innovations visent à améliorer la qualité des soins et à réduire la charge administrative du personnel médical.
 ________________________________________
 ### Mars 2025
 • Publication de l’état des lieux de l’intelligence artificielle (IA) en santé en France
