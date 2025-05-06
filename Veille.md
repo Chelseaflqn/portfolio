@@ -1,79 +1,84 @@
 # L’intelligence Artificielle dans le monde médical
 
-### Septembre 2024
-•   **L'intelligence artificielle en santé vue depuis l'an 2044**
-
-•	 [Le Monde](https://www.lemonde.fr/sante/article/2024/09/20/l-intelligence-artificielle-en-sante-vue-depuis-l-an-2044_6325469_1651302.html)
-
-•	20 septembre 2024
-
-•   Cet article projette l'utilisation de l'IA en santé en 2044, soulignant son omniprésence et les défis liés à l'incertitude des données qu'elle génère. Il met en avant le rôle crucial des soignants dans l'interprétation des informations fournies par l'IA.
-____________
-•	 **Il faut d'urgence insuffler un esprit start-up dans la santé**
-
-•	Source : [Le Monde](https://www.lemonde.fr/sciences/article/2024/09/17/il-faut-d-urgence-insuffler-un-esprit-start-up-dans-la-sante_6321490_1650684.html )
-
-•	Date : 17 septembre 2024
-
-•	Résumé : L'article plaide pour une modernisation du secteur de la santé en France, notamment par l'adoption de technologies innovantes comme l'IA, afin d'améliorer les processus et la qualité des soins.
 ________________________________________
-### Octobre 2024
-•	Titre : Guillaume Dumas, psychiatre : « L'IA devrait permettre aux médecins d'être encore plus humains avec leurs patients »
 
-•	Source : [Le Monde](https://www.lemonde.fr/sante/article/2024/10/09/guillaume-dumas-psychiatre-l-ia-devrait-permettre-aux-medecins-d-etre-encore-plus-humains-avec-leurs-patients_6347480_1651302.html )
+### Mars 2025
+• Publication de l’état des lieux de l’intelligence artificielle (IA) en santé en France
 
-•	Date : 9 octobre 2024
+• [The conservation ](https://theconversation.com/neurotechnologies-nos-pensees-seront-elles-a-vendre-251531)
 
-•	Résumé : Le psychiatre Guillaume Dumas explique comment l'IA peut aider les médecins à être plus efficaces, en leur faisant gagner du temps, et à renforcer la dimension humaine de la relation patiente.
+• 9 Mars 2025
+
+• Les neurotechnologies, conçues à l’origine pour des usages médicaux (traitement de l’épilepsie, dépression…), permettent d’enregistrer et de modifier l’activité cérébrale. Cependant, elles posent des questions éthiques, notamment sur la protection des données neuronales et leur exploitation commerciale. Certaines entreprises pourraient utiliser ces technologies pour analyser ou influencer les pensées, ce qui soulève des inquiétudes sur la vie privée et les libertés individuelles. Des régulations émergent, comme en Californie, pour encadrer ces pratiques et éviter des dérives.
 ________________________________________
-•	Titre : L'IA va permettre d'accélérer la recherche scientifique, bien plus qu'on ne peut l'imaginer
 
-•	Source : [Le Monde](https://www.lemonde.fr/economie/article/2024/10/12/l-ia-va-permettre-d-accelerer-la-recherche-scientifique-bien-plus-qu-on-ne-peut-l-imaginer_6349704_3234.html )
+### Février 2025
+• Publication de l’état des lieux de l’intelligence artificielle (IA) en santé en France
 
-•	Date : 12 octobre 2024
+• [Santé.gouv](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/publication-de-l-etat-des-lieux-de-l-intelligence-artificielle-ia-en-sante-en)
 
-•	Résumé : Joëlle Barral, directrice de la recherche fondamentale en IA chez Google DeepMind, discute de l'impact potentiel de l'IA sur la recherche scientifique, notamment en médecine, et des défis liés aux biais des données d'entraînement.
+• 8 Janvier 2025
+
+• Le ministère de la Santé a publié un état des lieux sur l'intelligence artificielle (IA) en santé en France, détaillant les avancées et les perspectives de son déploiement dans le système de santé. Ce document stratégique offre aux acteurs de terrain une vision structurée et concrète des actions engagées.
 ________________________________________
-•	Titre : Intelligence artificielle et médecine : la révolution a déjà commencé
 
-•	Source : [La Revue du Praticien](https://www.larevuedupraticien.fr/article/intelligence-artificielle-et-medecine-la-revolution-deja-commence)
+### Janvier 2025
+• Cancer du sein : Les dépistages seraient plus performants avec l’IA, selon une nouvelle étude
 
-•	Date : 5 octobre 2024
+• [20 Minutes] (https://www.20minutes.fr/sante/4132619-20250108-cancer-sein-depistages-plus-performants-ia-selon-nouvelle-etude)]
 
-•	Résumé : Cet article explore les applications actuelles de l'IA en médecine, telles que l'aide au diagnostic, la prédiction des maladies, la médecine personnalisée et la découverte de médicaments, tout en abordant les enjeux éthiques associés.
- 
-________________________________________
-### Novembre 2024
-•	Titre : Qu’est-ce que l’intelligence artificielle en médecine ?
+• 8 Janvier 2025
 
-•	Source : [IBM](https://www.ibm.com/fr-fr/topics/artificial-intelligence-medicine#:~:text=En%20m%C3%A9decine%2C%20l'intelligence%20artificielle,et%20l'exp%C3%A9rience%20des%20patients)
-
-•	Date : Novembre 2024
-
-•	Résumé : Cet article présente une introduction à l'utilisation de l'IA en médecine, en expliquant comment les modèles de machine learning sont utilisés pour traiter les données médicales et améliorer les résultats cliniques. 
+• Une étude montre que l’intelligence artificielle améliore la performance du dépistage du cancer du sein. En combinant IA et radiologues, la détection des tumeurs est plus efficace et réduit les erreurs. Cela pourrait améliorer le diagnostic précoce et alléger la charge de travail des médecins.
 ________________________________________
 ### Décembre 2024
-•	Titre : Intelligence artificielle et médecine
+• L’intelligence artificielle au service de la santé mentale
 
-•	Source : La Revue du Praticien
+• [Info.gouv.fr](https://www.info.gouv.fr/actualite/lintelligence-artificielle-au-service-de-la-sante-mentale)
+• Décembre 2024
 
-•	Date : Décembre 2024
-
-•	Résumé : L'article discute des applications actuelles de l'IA en médecine, notamment l'aide au diagnostic, la prédiction des maladies, la médecine personnalisée et la découverte de médicaments, tout en abordant les enjeux éthiques et les défis associés.
+• L’intelligence artificielle est de plus en plus utilisée en santé mentale grâce à des objets connectés, des chatbots et l’informatique émotionnelle. Ces outils aident au suivi des patients en analysant leur activité et leurs émotions. Cependant, ils posent des défis éthiques, notamment sur la confidentialité des données et le maintien d’une relation humaine avec les patients. Une utilisation responsable et une formation des professionnels sont essentielles pour en tirer le meilleur parti.
 ________________________________________
-•	Titre : Les avancées de l'IA dans le dépistage précoce des cancers
+### Novembre 2024
+• Qu’est-ce que l’intelligence artificielle en médecine ?
 
-•	Source : Nature Medicine
+• [IBM](https://www.ibm.com/fr-fr/topics/artificial-intelligence-medicine#:~:text=En%20m%C3%A9decine%2C%20l'intelligence%20artificielle,et%20l'exp%C3%A9rience%20des%20patients)
 
-•	Date : 20 décembre 2024
+• Novembre 2024
 
-•	Résumé : Cet article met en lumière comment l'IA est utilisée pour améliorer le dépistage précoce des cancers à partir d'images médicales, réduisant ainsi les erreurs de diagnostic et augmentant les chances de survie des patients.
+• Cet article présente une introduction à l'utilisation de l'IA en médecine, en expliquant comment les modèles de machine learning sont utilisés pour traiter les données médicales et améliorer les résultats cliniques. 
 ________________________________________
-### Janvier 2025
-•	Titre : Les défis éthiques de l'IA dans la santé en 2025
+### Octobre 2024
+• Guillaume Dumas, psychiatre : « L'IA devrait permettre aux médecins d'être encore plus humains avec leurs patients »
 
-•	Source : Scientific American
+• [Le Monde](https://www.lemonde.fr/sante/article/2024/10/09/guillaume-dumas-psychiatre-l-ia-devrait-permettre-aux-medecins-d-etre-encore-plus-humains-avec-leurs-patients_6347480_1651302.html )
 
-•	Date : 10 janvier 2025
+• 9 octobre 2024
 
-•	Résumé : L'article explore les questions éthiques autour de l'utilisation de l'IA dans le domaine médical, notamment en ce qui concerne la confidentialité des données, la transparence des algorithmes et l'équité dans l'accès aux technologies.
+• Le psychiatre Guillaume Dumas explique comment l'IA peut aider les médecins à être plus efficaces, en leur faisant gagner du temps, et à renforcer la dimension humaine de la relation patiente.
+________________________________________
+• L'IA va permettre d'accélérer la recherche scientifique, bien plus qu'on ne peut l'imaginer
+
+• [Le Monde](https://www.lemonde.fr/economie/article/2024/10/12/l-ia-va-permettre-d-accelerer-la-recherche-scientifique-bien-plus-qu-on-ne-peut-l-imaginer_6349704_3234.html )
+
+• 12 octobre 2024
+
+• Joëlle Barral, directrice de la recherche fondamentale en IA chez Google DeepMind, discute de l'impact potentiel de l'IA sur la recherche scientifique, notamment en médecine, et des défis liés aux biais des données d'entraînement.
+________________________________________
+### Septembre 2024
+•  **L'intelligence artificielle en santé vue depuis l'an 2044**
+
+• [Le Monde](https://www.lemonde.fr/sante/article/2024/09/20/l-intelligence-artificielle-en-sante-vue-depuis-l-an-2044_6325469_1651302.html)
+
+• 20 septembre 2024
+
+• Cet article projette l'utilisation de l'IA en santé en 2044, soulignant son omniprésence et les défis liés à l'incertitude des données qu'elle génère. Il met en avant le rôle crucial des soignants dans l'interprétation des informations fournies par l'IA.
+____________
+•  **Il faut d'urgence insuffler un esprit start-up dans la santé**
+
+• [Le Monde](https://www.lemonde.fr/sciences/article/2024/09/17/il-faut-d-urgence-insuffler-un-esprit-start-up-dans-la-sante_6321490_1650684.html )
+
+• 17 septembre 2024
+
+•  L'article plaide pour une modernisation du secteur de la santé en France, notamment par l'adoption de technologies innovantes comme l'IA, afin d'améliorer les processus et la qualité des soins.
+
