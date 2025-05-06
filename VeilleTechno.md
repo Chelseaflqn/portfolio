@@ -1,3 +1,5 @@
+Chelsea Florquin BTS 1 // Septembre 2024 - Présent (juin 2026)
+
 # L’intelligence Artificielle dans le monde médical
 Dans le cadre de ma veille technologique, j’utilise principalement les alertes Google. J’ai configuré celles-ci pour recevoir un e-mail toutes les deux semaines, chaque mardi. Cela me permet de rester informé des nouveautés et actualités pertinentes des deux dernières semaines, sans être submergé d’informations.
 
