@@ -1,7 +1,27 @@
 # L’intelligence Artificielle dans le monde médical
+Dans le cadre de ma veille technologique, j’utilise principalement les alertes Google. J’ai configuré celles-ci pour recevoir un e-mail toutes les deux semaines, chaque mardi. Cela me permet de rester informé des nouveautés et actualités pertinentes des deux dernières semaines, sans être submergé d’informations.
 
+J’ai également essayé d’autres services comme Talkwalker Alerts, qui propose une alternative gratuite et similaire. Toutefois, j’ai finalement préféré continuer avec Google Alerts, que je trouve plus simple à configurer et plus pertinent dans les résultats proposés.
+________________________________________
+### Mai 2025
+• Publication de l’état des lieux de l’intelligence artificielle (IA) en santé en France
+
+• [BPIFrance](https://bigmedia.bpifrance.fr/nos-actualites/robotique-elle-ne-remplace-pas-lexpertise-humaine-elle-la-democratise)
+
+• 01 Mai 2025
+
+• L'article de Big média souligne que la robotique médicale ne vise pas à remplacer l'expertise humaine, mais à la démocratiser. En amplifiant la dextérité et la précision des chirurgiens, elle permet à des praticiens moins expérimentés de réaliser des interventions complexes autrefois réservées aux experts. Cette technologie, tout en posant des questions éthiques sur la responsabilité, reste un outil au service du médecin, contribuant également à la réindustrialisation en France grâce à des entreprises innovantes comme Quantum Surgical.
 ________________________________________
 
+### Avril 2025
+• Publication de l’état des lieux de l’intelligence artificielle (IA) en santé en France
+
+• [The conservation ](https://www.usine-digitale.fr/article/de-la-modernisation-du-dpi-a-l-ia-generative-comment-le-chu-de-montpellier-accelere-sa-mue-numerique.N2231083)
+
+• 25 Avril 2025
+
+• e CHU de Montpellier accélère sa transformation numérique en modernisant son Dossier Patient Informatisé (DPI) et en intégrant des solutions d'intelligence artificielle générative. Grâce au centre ERIOS, cofondé avec Dedalus et l’Université de Montpellier, l'hôpital expérimente des outils numériques conçus avec les soignants pour répondre aux besoins concrets du terrain. Ces innovations visent à améliorer la qualité des soins et à réduire la charge administrative du personnel médical.
+________________________________________
 ### Mars 2025
 • Publication de l’état des lieux de l’intelligence artificielle (IA) en santé en France
 
