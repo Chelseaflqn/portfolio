@@ -274,7 +274,46 @@ button:hover {
     transform: scale(1.05);
 }
 
-
+.calculatrice {
+    width: 250px;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+    background: #f8f8f8;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .calculatrice input {
+    width: 100%;
+    font-size: 1.5em;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+    border: none;
+    background: white;
+    border-radius: 5px;
+  }
+  
+  .calculatrice .touches {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+  }
+  
+  .calculatrice button {
+    padding: 15px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    background: #ddd;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  
+  .calculatrice button:hover {
+    background: #ccc;
+  }
+  
 /* Pied de page */
 footer {
     background: rgba(224, 187, 228, 0.9);
