@@ -1,13 +1,13 @@
-#Compte rendu de stage#
+#***Compte rendu de stage***#
 
 
-**Nom de l’entreprise : Florquin Couverture 
+**Nom de l’entreprise : Florquin Couverture** 
 
-Domaine d’activité : Couverture, rénovation et travaux liés au bâtiment 
+**Domaine d’activité : Couverture, rénovation et travaux liés au bâtiment** 
 
-Période de stage :19 mai 2025 au 28 Juin 2025 
+**Période de stage :19 mai 2025 au 28 Juin 2025** 
 
-Tuteur de stage : Roger FLORQUIN**
+**Tuteur de stage : Roger FLORQUIN**
 
 ##Objectifs du stage##
 
