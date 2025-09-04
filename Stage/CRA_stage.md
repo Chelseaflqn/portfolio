@@ -74,6 +74,8 @@ J’ai principalement rempli le fichier client depuis 2010, ainsi que réparé l
 **Semaine 5**  
 
 J’ai fini de remplir les fichiers clients. 
+Egalement, il a fallut changer le cable ethernet relié à l'odinateur. 
+J'ai donc du aller l'acheter à la fnac, puis le changer directement.
 
 **Semaine 6**
 
