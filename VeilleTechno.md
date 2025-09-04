@@ -7,16 +7,13 @@ J’ai également essayé d’autres services comme Talkwalker Alerts, qui propo
 ________________________________________
 ### Juillet 2025
 • Intelligence artificielle et données de santé : une stratégie nationale pour accélérer la recherche et l’innovation en santé
-
-• [Ministère](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/intelligence-artificielle-et-donnees-de-sante-une-strategie-nationale-pour?utm_source=chatgpt.com)
-• 01 juillet 2025
+• [Ministère](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/intelligence-artificielle-et-donnees-de-sante-une-strategie-nationale-pour)• 01 juillet 2025
 
 • Le gouvernement français a dévoilé une stratégie nationale (2025-2028) axée sur une utilisation secondaire optimisée des données de santé et une intégration encadrée de l’IA dans le système de soins, avec notamment le lancement d’un forum consultatif national et un appel d’offres pour un hébergement souverain des données du SNDS, pour renforcer innovation, souveraineté et efficacité dans le secteur santé
 ________________________________________
 ### Juin 2025
-• Publication de l’état des lieux de l’intelligence artificielle (IA) en santé en France
-
-• [Ts2 Space](https://ts2.tech/fr/synthese-des-actualites-ia-28-juin-2025/?utm_source=chatgpt.com)
+• Synthèse des actualités IA - 28 juin 2025
+• [Ts2 Space](https://ts2.tech/fr/synthese-des-actualites-ia-28-juin-2025/)
 • 29 juin 2025
 
 • L'article met en avant AlphaGenome, un outil de DeepMind capable d’analyser le génome pour mieux comprendre les maladies, ainsi que Qwen-VLo d’Alibaba, un modèle multimodal combinant texte et image. Ces innovations illustrent la place croissante de l’IA dans la recherche médicale et technologique.
