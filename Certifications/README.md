@@ -14,5 +14,5 @@ Je pense qu'il faut améliorer toutes mes compétences techniques, chacunes d'el
 **3- Quelles sont les plateformes de Certifications et d'Autoformations ?**
 
 Les certifications que j'ai trouvé suite à mes recherches qui peuvent être utile pour moi sont :
-- **PCAP – Certified Associate in Python Programming** : Celle ci peut être un vrai atout, car c'est un langage très utilisé en bio-informatique.
-- **IBM Data Science sur Coursera** : Une certif de BDD, très utile dans le domaine de la bio-informatique
+- **PCAP – Certified Associate in Python Programming** : Celle ci peut être un vrai atout, car c'est un langage très utilisé en bio-informatique et une certifications reconnue.
+- **IBM Data Science sur Coursera** : Une certification de BDD, très utile dans le domaine de la bio-informatique.
