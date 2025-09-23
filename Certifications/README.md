@@ -1,8 +1,9 @@
 *FLORQUIN Chelsea 23/09/2021*
 
-Parcours de Certification et AutoFormation
+#Parcours de Certification et AutoFormation#
 
 **1- Projet Professionnel + Poursuite d'étude ?**
+
 Je souhaite m’orienter vers une licence professionnelle en bio-informatique ou une licence en biologie avec option informatique, 
 afin de afin de faire les liens avec ce qe j'ai appris en BTS SIO avec le domaine scientifique de la biologie.
 
