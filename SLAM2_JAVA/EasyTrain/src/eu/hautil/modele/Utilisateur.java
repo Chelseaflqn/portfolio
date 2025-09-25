@@ -10,7 +10,7 @@ public class Utilisateur {
         public String nom;
         public String prenom;
         public LocalDate dateEmbauche;
-        public String role;
+        public Role role;
     //TODO Ajouter les fonctions d'utilisateurs
     //Getter et Setter
 
@@ -34,7 +34,7 @@ public class Utilisateur {
     public LocalDate getDateEmbauche() {
         return dateEmbauche;
     }
-    public String getRole() {
+    public Role getRole() {
         return role;
     }
     public void setId(int id) {
@@ -55,7 +55,7 @@ public class Utilisateur {
     public void setDateEmbauche(LocalDate dateEmbauche) {
         this.dateEmbauche = dateEmbauche;
     }
-    public void setRole(String role) {
+    public void setRole(Role role) {
         this.role = role;
     }
 
@@ -69,7 +69,7 @@ public class Utilisateur {
         this.prenom = "";
         this.role = null;
     }
-    public Utilisateur(int id,  String login, String mdp, String nom, LocalDate dateEmbauche, String role) {
+    public Utilisateur(int id,  String login, String mdp, String nom, LocalDate dateEmbauche, Role role) {
         this.id = id;
         this.login = login;
         this.mdp = mdp;
