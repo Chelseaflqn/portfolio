@@ -40,3 +40,11 @@ public class Main {
          System.out.println("Après modification les informations de l'utilistaeurs sont : "+user2);
     }
 }
+
+    //TODO Creer 2 objets Arret
+
+    Arret A1 = new Arret();
+
+    //TODO Creer 2 objets Trajet
+
+    //TODO Afficher les objets (Get et toString)

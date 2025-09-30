@@ -1,9 +1,16 @@
 package eu.hautil.modele;
 
-public class Arrêt {
+public class Arret {
     private int id;
-    public String nom;
+    private String nom;
 
+    //Constructeur par default
+    public Arret(int id, String nom) {
+        this.id = id;
+        this.nom = nom;
+    }
+
+    //Getter et Setter
     public int getId() {
         return id;
     }
@@ -13,10 +20,10 @@ public class Arrêt {
     }
 
     public int setId() {
-       this.id=id;
+        this.id = id;
     }
 
     public String setNom() {
-         this.nom=nom;
+        this.nom = nom;
     }
 }
