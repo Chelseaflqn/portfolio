@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<link rel="icon" type="image/png" href="image.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projets - Chelsea Florquin</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🌸 Chelsea Florquin 🌸</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="projets.html">Projets</a></li>
+                <li><a href="veilleinformatique.html" >Veille Technologique</a></li>
+                <li><a href="stage.html">Stage</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <h2>Mes projets 💻</h2>
+        <p>Voici une sélection de mes projets. Vous y trouverez des réalisations en HTML, Java, JavaScript et d'autres technologies.</p>
+    </section>
+    <section>
+        <h2>Calculatrice en JavaScript 🧮</h2>
+        <p>Voici une version web de la calculatrice que j'ai initialement développée en Java.</p>
+        <div class="calculatrice">
+          <input type="text" id="affichage" disabled value="0">
+          <div class="touches">
+            <button onclick="vide()"></button>
+            <button onclick="vide()"></button>
+            <button onclick="clearAffichage()">C</button>
+            <button onclick="supprimerDernier()">←</button>
+            <button onclick="inverse()">1/x</button>
+            <button onclick="carre()">x²</button>
+            <button onclick="racine()">√x</button>
+            <button onclick="ajouterOperation('/')">/</button>
+            <button onclick="ajouterChiffre('7')">7</button>
+            <button onclick="ajouterChiffre('8')">8</button>
+            <button onclick="ajouterChiffre('9')">9</button>
+            <button onclick="ajouterOperation('*')">×</button>
+            <button onclick="ajouterChiffre('4')">4</button>
+            <button onclick="ajouterChiffre('5')">5</button>
+            <button onclick="ajouterChiffre('6')">6</button>
+            <button onclick="ajouterOperation('-')">−</button>
+            <button onclick="ajouterChiffre('1')">1</button>
+            <button onclick="ajouterChiffre('2')">2</button>
+            <button onclick="ajouterChiffre('3')">3</button>
+            <button onclick="ajouterOperation('+')">+</button>
+            <button onclick="negatif()">+/-</button>
+            <button onclick="ajouterChiffre('0')">0</button>
+            <button onclick="ajouterPoint()">.</button>
+            <button onclick="calculer()">=</button>
+          </div>
+        </div>
+      </section>
+      
+    <footer>
+	<p>Retrouvez-moi sur : 
+            <a href="https://gitlab.com/florquin/FLORQUIN" target="_blank">GitLab</a> | 
+            <a href="https://www.linkedin.com/in/chelsea-florquin-a21030293/" target="_blank">LinkedIn</a>
+        </p>
+        <p>&copy; 2025 Chelsea Florquin. Tous droits réservés. 🌷</p>
+    </footer>
+    <script>
+        let affichage = document.getElementById("affichage");
+        let operation = "";
+        let valeur1 = null;
+        let reset = false;
+        
+        function ajouterChiffre(chiffre) {
+          if (affichage.value === "0" || reset) {
+            affichage.value = chiffre;
+            reset = false;
+          } else {
+            affichage.value += chiffre;
+          }
+        }
+        
+        function ajouterPoint() {
+          if (!affichage.value.includes(".")) {
+            affichage.value += ".";
+          }
+        }
+        
+        function ajouterOperation(op) {
+          valeur1 = parseFloat(affichage.value);
+          operation = op;
+          reset = true;
+        }
+        
+        function calculer() {
+          if (valeur1 === null || operation === "") return;
+          let valeur2 = parseFloat(affichage.value);
+          let resultat;
+          switch (operation) {
+            case "+": resultat = valeur1 + valeur2; break;
+            case "-": resultat = valeur1 - valeur2; break;
+            case "*": resultat = valeur1 * valeur2; break;
+            case "/": resultat = valeur2 !== 0 ? valeur1 / valeur2 : "Erreur"; break;
+          }
+          affichage.value = resultat;
+          reset = true;
+          valeur1 = null;
+          operation = "";
+        }
+        
+        function clearAffichage() {
+          affichage.value = "0";
+          valeur1 = null;
+          operation = "";
+        }
+        
+        function supprimerDernier() {
+          affichage.value = affichage.value.slice(0, -1) || "0";
+        }
+        
+        function carre() {
+          let valeur = parseFloat(affichage.value);
+          affichage.value = valeur * valeur;
+        }
+        
+        function racine() {
+          let valeur = parseFloat(affichage.value);
+          affichage.value = Math.sqrt(valeur);
+        }
+        
+        function inverse() {
+          let valeur = parseFloat(affichage.value);
+          affichage.value = valeur !== 0 ? 1 / valeur : "Erreur";
+        }
+        
+        function negatif() {
+          affichage.value = -parseFloat(affichage.value);
+        }
+        </script>
+        
+</body>
+</html>
