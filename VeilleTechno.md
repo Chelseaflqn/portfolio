@@ -5,9 +5,23 @@ Dans le cadre de ma veille technologique, j’utilise principalement les alertes
 
 J’ai également essayé d’autres services comme Talkwalker Alerts, qui propose une alternative gratuite et similaire. Toutefois, j’ai finalement préféré continuer avec Google Alerts, que je trouve plus simple à configurer et plus pertinent dans les résultats proposés.
 ________________________________________
+### Septembre 2025
+• Une IA qui prédit nos maladies dix ans à l'avance ?
+• [Fréquence Médical](https://www.frequencemedicale.com/onco-genito-uro/patient/297960-Une-IA-qui-predit-nos-maladies-dix-ans-a-l-avance)
+• 18 Septembre 2025
+• L’article présente une IA développée par des chercheurs européens capable de prédire avec des probabilités le risque de plus de 1 000 maladies jusqu’à dix ans à l’avance, à partir de données médicales historiques. Elle montre des performances prometteuses pour des pathologies comme les cancers, le diabète ou les maladies cardiovasculaires, mais n’est pas encore prête pour une utilisation clinique généralisée.
+________________________________________
+### Aout 2025
+• Coloscopies : assistés par l’IA, les professionnels de santé perdraient en compétence
+• [Sud Ouest](https://www.sudouest.fr/sante/destination-sante/coloscopies-assistes-par-l-ia-les-professionnels-de-sante-perdraient-en-competence-25601923.php)
+• 19 Août 2025
+
+• L’article relate qu’une étude en Pologne montre que l’usage d’IA lors de coloscopies régulières pourrait conduire à une baisse des compétences des médecins en l’absence de l’outil : leur taux de détection sans IA passe de ~28,4 % à ~22,4 %.
+________________________________________
 ### Juillet 2025
 • Intelligence artificielle et données de santé : une stratégie nationale pour accélérer la recherche et l’innovation en santé
-• [Ministère](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/intelligence-artificielle-et-donnees-de-sante-une-strategie-nationale-pour)• 01 juillet 2025
+• [Ministère](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/intelligence-artificielle-et-donnees-de-sante-une-strategie-nationale-pour)
+• 01 juillet 2025
 
 • Le gouvernement français a dévoilé une stratégie nationale (2025-2028) axée sur une utilisation secondaire optimisée des données de santé et une intégration encadrée de l’IA dans le système de soins, avec notamment le lancement d’un forum consultatif national et un appel d’offres pour un hébergement souverain des données du SNDS, pour renforcer innovation, souveraineté et efficacité dans le secteur santé
 ________________________________________
