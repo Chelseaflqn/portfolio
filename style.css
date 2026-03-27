@@ -1,0 +1,801 @@
+/* Variables de couleurs */
+:root {
+    --primary: #f8e1e7; /* Rose très pâle */
+    --accent: #d4a5b2;  /* Rose poudré sombre */
+    --text: #4a4a4a;
+    --bg: #ffffff;
+    --light-bg: #fafafa;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text);
+    line-height: 1.6;
+    background-color: var(--bg);
+    scroll-behavior: smooth;
+}
+
+/* Navigation */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 10%;
+    background: white;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin-left: 2rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: var(--text);
+    font-weight: 400;
+    font-size: 0.9rem;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: var(--accent);
+}
+
+/* Header */
+header {
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(180deg, var(--primary) 0%, #ffffff 100%);
+}
+
+.hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.hero h1 span {
+    color: var(--accent);
+    font-style: italic;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 0.8rem 2rem;
+    background-color: var(--accent);
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+    transition: transform 0.3s;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+}
+
+/* Sections */
+.section {
+    padding: 5rem 10%;
+    text-align: center;
+}
+
+.bg-light {
+    background-color: var(--light-bg);
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    position: relative;
+}
+
+h2::after {
+    content: '';
+    width: 50px;
+    height: 2px;
+    background: var(--accent);
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Grilles */
+.skills-grid, .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.skill-card, .project-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.02);
+    border: 1px solid #eee;
+}
+
+.project-img {
+    height: 150px;
+    background: var(--primary);
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+.tag {
+    font-size: 0.7rem;
+    background: var(--primary);
+    padding: 2px 10px;
+    border-radius: 10px;
+    color: var(--accent);
+    font-weight: 600;
+}
+
+/* Footer */
+footer {
+    padding: 4rem 10%;
+    background: var(--light-bg);
+    text-align: center;
+}
+
+.socials {
+    margin: 1.5rem 0;
+}
+
+.copyright {
+    font-size: 0.8rem;
+    opacity: 0.6;
+}
+
+/* --- Section Veille Technologique --- */
+
+.veille-intro {
+    background: white;
+    max-width: 900px;
+    margin: 0 auto 4rem auto;
+    padding: 2.5rem;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.02);
+    border: 1px solid #eee;
+    text-align: left;
+}
+
+.veille-intro h3 {
+    font-family: 'Playfair Display', serif;
+    color: var(--accent);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.veille-summary {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #eee;
+}
+
+.veille-summary h4 {
+    margin-bottom: 1rem;
+    color: var(--text);
+}
+
+.veille-summary ul {
+    list-style: none;
+    padding: 0;
+}
+
+.veille-summary ul li {
+    margin-bottom: 0.8rem;
+    padding-left: 2rem;
+    position: relative;
+    font-size: 0.95rem;
+}
+
+.veille-summary ul li::before {
+    content: '✨';
+    position: absolute;
+    left: 0;
+    top: -2px;
+}
+
+.veille-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    text-align: left;
+}
+
+.veille-card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 15px;
+    border: 1px solid #eee;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.02);
+    transition: all 0.3s ease;
+}
+
+.veille-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--accent);
+    box-shadow: 0 8px 20px rgba(212, 165, 178, 0.2);
+}
+
+.veille-card h4 {
+    font-size: 1.1rem;
+    margin-bottom: 0.8rem;
+    color: var(--text);
+}
+
+.veille-card p {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: #666;
+}
+
+.date-tag {
+    display: inline-block;
+    font-size: 0.75rem;
+    background: var(--primary);
+    color: var(--accent);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+/* Container Spécifique Projet Calculatrice */
+.project-card-large {
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+    grid-column: 1 / -1; /* Prend toute la largeur de la grille */
+    border: 1px solid #eee;
+    text-align: left;
+    margin-bottom: 2rem;
+}
+
+.calc-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+/* Design de la Calculatrice */
+.calculatrice {
+    background: #4a4a4a;
+    padding: 20px;
+    border-radius: 20px;
+    width: 280px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+#affichage {
+    width: 100%;
+    height: 50px;
+    background: #fdfdfd;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    text-align: right;
+    padding: 0 15px;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text);
+}
+
+.touches {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.touches button {
+    height: 45px;
+    border-radius: 8px;
+    border: none;
+    background: #666;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.touches button:hover {
+    background: var(--accent);
+}
+
+.btn-op { background: #888 !important; }
+.btn-special { background: #d4a5b2 !important; }
+.btn-equal { background: #d4a5b2 !important; grid-column: span 1; }
+.btn-empty { visibility: hidden; }
+
+/* Zone Code */
+.code-explanation {
+    flex: 1;
+    min-width: 300px;
+    background: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 10px;
+    border-left: 4px solid var(--accent);
+}
+
+.code-explanation pre {
+    white-space: pre-wrap;
+    font-size: 0.85rem;
+    color: #555;
+    font-family: 'Courier New', monospace;
+    line-height: 1.4;
+}
+
+.code-viewer {
+    flex: 1;
+    min-width: 350px;
+    background: #f4f4f4;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+}
+
+.tab-buttons {
+    display: flex;
+    background: #e0e0e0;
+}
+
+.tab-buttons button {
+    flex: 1;
+    padding: 12px;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    transition: 0.3s;
+}
+
+.tab-buttons button.active {
+    background: white;
+    color: var(--accent);
+    border-bottom: 2px solid var(--accent);
+}
+
+.code-content {
+    padding: 20px;
+}
+
+.code-desc {
+    font-size: 0.85rem;
+    font-style: italic;
+    margin-bottom: 10px;
+    color: #666;
+}
+
+.code-content pre {
+    background: #2d2d2d;
+    color: #f8f8f2;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 0.8rem;
+    overflow-x: auto;
+    line-height: 1.5;
+}
+
+.legal-links {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.legal-links a {
+    font-size: 0.8rem;
+    color: var(--text);
+    text-decoration: underline;
+    opacity: 0.7;
+}
+
+.copyright {
+    font-size: 0.85rem;
+    border-top: 1px solid #eee;
+    padding-top: 1.5rem;
+    margin-top: 1rem;
+}
+
+/* Style de la fenêtre modale Mentions Légales */
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1000; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    background-color: rgba(0,0,0,0.5); 
+}
+
+.modal-content {
+    background-color: white;
+    margin: 10% auto;
+    padding: 30px;
+    border-radius: 15px;
+    width: 60%;
+    max-width: 600px;
+    text-align: left;
+    line-height: 1.8;
+}
+
+.modal-content h3 {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 1.5rem;
+    color: var(--accent);
+}
+
+.close {
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+/* Style pour rendre la carte entière cliquable */
+.veille-card-link {
+    text-decoration: none; /* Enlever le soulignement du lien */
+    color: inherit; /* Garder la couleur du texte originale */
+    display: block; /* Pour que le lien prenne toute la place */
+    transition: transform 0.3s ease;
+}
+
+.veille-card-link:hover .veille-card {
+    transform: translateY(-5px); /* Petit saut au survol */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1); /* Ombre plus forte au survol */
+    border-color: #007bff; /* Change la couleur de bordure au survol (optionnel) */
+}
+
+.veille-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #eee;
+    height: 100%; /* Pour que toutes les cartes aient la même taille */
+}
+/* --- SECTION CERTIFICATIONS --- */
+.certifs-grid {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.certif-card {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    width: 180px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    transition: transform 0.3s;
+}
+
+.certif-card:hover {
+    transform: scale(1.05);
+}
+
+.certif-card img {
+    height: 50px; /* Taille uniforme pour les logos */
+    width: auto;
+    margin-bottom: 10px;
+    filter: grayscale(20%); /* Un peu plus sobre */
+}
+
+.certif-card p {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #333;
+}
+
+/* --- SECTION COMPÉTENCES --- */
+.skills-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.skill-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.stars {
+    color: #ffcc00; /* Jaune pour les étoiles */
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+}
+
+.separator {
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 40px auto;
+    width: 50%;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .skills-wrapper { grid-template-columns: 1fr; }
+}
+/* Style du lien général */
+.certif-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 0.8rem;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.certif-link:hover {
+    text-decoration: underline;
+}
+
+/* Style spécifique pour la carte RGPD multi-liens */
+.certif-rgpd {
+    min-width: 220px; /* On l'élargit un peu pour les liens */
+}
+
+.rgpd-links {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+}
+
+.rgpd-links span {
+    font-size: 0.75rem;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.rgpd-links a {
+    font-size: 0.75rem;
+    color: #007bff;
+    text-decoration: none;
+    margin: 2px 0;
+}
+
+.rgpd-links a:hover {
+    text-decoration: underline;
+}
+.certif-card img {
+    width: auto;
+    max-width: 120px; /* Largeur max pour ne pas étouffer la carte */
+    height: 60px;     /* Hauteur fixe pour aligner tous les logos */
+    object-fit: contain; /* Garde les proportions du logo sans le couper */
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Grille des certifications */
+.certifs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    padding: 20px 0;
+}
+
+/* Style de la carte */
+.certif-card {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease;
+    border: 1px solid #f0f0f0;
+}
+
+.certif-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Style de l'icône (Chapeau de diplômé) */
+.certif-icon {
+    font-size: 2.5rem;
+    color: #007bff; /* Couleur bleue pro */
+    margin-bottom: 15px;
+}
+
+.certif-card h4 {
+    margin-bottom: 5px;
+    color: #333;
+    font-size: 1.1rem;
+}
+
+.certif-org {
+    font-size: 0.85rem;
+    color: #777;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+/* Style des liens */
+.certif-link {
+    display: inline-block;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    border: 1px solid #007bff;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+
+.certif-link:hover {
+    background: #007bff;
+    color: white;
+}
+
+/* Cas particulier RGPD : liste de liens */
+.rgpd-links {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 10px;
+    text-align: left;
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+}
+
+.rgpd-links a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 0.8rem;
+    padding: 3px 0;
+}
+
+.rgpd-links a:hover {
+    text-decoration: underline;
+}
+/* --- Mise en page globale --- */
+.section-title {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2rem;
+    margin-bottom: 50px;
+    color: #2c3e50;
+}
+
+.sub-title {
+    text-align: center;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    color: #7f8c8d;
+}
+
+/* --- Grille Certifications --- */
+.certifs-grid {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.certif-card {
+    background: #fff;
+    width: 200px;
+    padding: 30px 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    border: 1px solid rgba(0,0,0,0.03);
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.certif-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 40px rgba(0,0,0,0.1);
+}
+
+.certif-icon {
+    font-size: 2rem;
+    color: #3498db;
+    margin-bottom: 15px;
+}
+
+.certif-card h4 {
+    font-size: 1rem;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.certif-card .org {
+    font-size: 0.8rem;
+    color: #95a5a6;
+    margin-bottom: 20px;
+}
+
+/* Bouton élégant */
+.btn-certif {
+    font-size: 0.75rem;
+    text-decoration: none;
+    color: #3498db;
+    border: 1px solid #3498db;
+    padding: 8px 15px;
+    border-radius: 50px;
+    transition: 0.3s;
+    font-weight: 600;
+}
+
+.btn-certif:hover {
+    background: #3498db;
+    color: #fff;
+}
+
+/* Liens RGPD discrets */
+.rgpd-links {
+    text-align: left;
+    border-top: 1px solid #eee;
+    padding-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.rgpd-links a {
+    font-size: 0.7rem;
+    color: #555;
+    text-decoration: none;
+}
+
+.rgpd-links a:hover {
+    color: #3498db;
+}
+
+/* --- Compétences & Étoiles --- */
+.skills-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 60px;
+    margin-top: 50px;
+}
+
+.skill-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    font-weight: 400;
+    color: #2c3e50;
+    border-bottom: 1px dashed #ddd;
+    padding-bottom: 5px;
+}
+
+.stars {
+    color: #f1c40f;
+    letter-spacing: 3px;
+}
+
+.spacer-large { height: 80px; }
